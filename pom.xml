@@ -11,6 +11,25 @@
    <!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
 		
 
+
+
+  
+  <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-webmvc</artifactId>
+    <version>5.1.8.RELEASE</version>
+</dependency>
+  
+  
+  
+  
+  <!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
+<dependency>
+    <groupId>javax.servlet</groupId>
+    <artifactId>jstl</artifactId>
+    <version>1.2</version>
+</dependency>
 		<!-- dependency for JUNIT 4 to be added -->
 		<dependency>
 			<groupId>junit</groupId>

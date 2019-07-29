@@ -1,11 +1,20 @@
 package com.stackroute.keepnote.controller;
 
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 
 /*Annotate the class with @Controller annotation. @Controller annotation is used to mark 
  * any POJO class as a controller so that Spring can recognize this class as a Controller
  * */
 
+@Controller
 public class NoteController {
+	
+	
+	
+	 
+	
 	/*
 	 * From the problem statement, we can understand that the application
 	 * requires us to implement the following functionalities.
